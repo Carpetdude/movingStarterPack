@@ -1,0 +1,6 @@
+print('user.plugin_config successfull')
+require('user.plugin_config.telescope')
+require('user.plugin_config.treesitter')
+require('.user.plugin_config.harpoon')
+require('.user.plugin_config.undotree')
+require('.user.plugin_config.lsp')

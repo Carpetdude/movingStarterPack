@@ -1,0 +1,32 @@
+font:
+  normal:
+    family: Fira Mono NerdFont
+    style: Regular
+
+  bold:
+    family: Fira Mono NerdFont
+    style: Bold
+
+  italic:
+    family: Fira Mono NerdFont
+    style: Italic
+
+  bold_italic:
+    family: Fira Mono NerdFont
+    style: Bold Italic
+
+window:
+  padding:
+    x: 5
+    y: 5
+  dimensions:
+    columns: 110
+    lines: 40
+
+  decorations: full
+
+  opacity: 0.95
+
+  decorations_theme_variant: none
+
+  startup_mode: Windowed
